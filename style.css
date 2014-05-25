@@ -5,7 +5,7 @@
 }
 body {
 	/*max-width:1200px;*/
-	background-image:url("back.png");
+	background-image:url("background.png");
 	background-size:100% 100%;
 }
 #header{
@@ -81,7 +81,7 @@ body {
 	height:1347px;
 	width:1095px;
 	background-color:rgba(0,0,0,0);
-	background-image:url("content_back.png");*/
+	background-image:url("back.png");*/
 	background-repeat:no-repeat;
 	background-size:100% 100%;
 	padding-left:26px;
@@ -137,7 +137,7 @@ body {
 #dropdown{
 	display:none;
 	position:absolute;
-	background-image:url("drop-down.png");
+	background-image:url("blackbox.png");
 	width:245px;
 	height:164px;
 	margin-left:430px;
